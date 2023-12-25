@@ -1,0 +1,7 @@
+[user]
+	name = Gabriel M. Dutra
+	email = gabriel@bsdutra.me
+	signingkey = 3D1024B4CE421E486AC754EBBC93D07862473F18
+
+[commit]
+	gpgsign = true
